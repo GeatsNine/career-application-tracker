@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+
+practice_week*/
+week1_sql_practice/
